@@ -1,5 +1,9 @@
 # project-parasol-be
 
+<img alt="java" src ="https://img.shields.io/badge/java-17.0.1-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
+<img alt="maven" src ="https://img.shields.io/badge/maven-3.9.5-3776AB.svg?&style=for-the-badge&logo=maven&logoColor=white"/> 
+<img alt="spring" src ="https://img.shields.io/badge/spring-2.7.16-3776AB.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+
 CSV파일로 저장된 데이터를 api요청에 따라 응답하는 서버입니다. data파일에 주가와 추천도 데이터가 필요합니다.
 
 프로젝트를 빌드하기 위해서는 maven이 필요합니다.
